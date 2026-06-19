@@ -86,8 +86,8 @@
         <!-- Upload your photo to the repo as "profile.jpg" then replace the URL below -->
         <img src="https://via.placeholder.com/168" alt="Ip Zack" class="profile">
         
-        <h1>LP Zack</h1>
-        <p class="handle">@lpzackofficial</p>
+        <h1>iP Zack</h1>
+        <p class="handle">@ipzackofficial</p>
         <p class="bio">Kenyan artist pioneering the <strong>Zubakaya</strong> genre<br>
         Ancient drums, dancehall bass &amp; pure soul frequencies 🇰🇪</p>
         
