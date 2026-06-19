@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LP Zack | Zubakaya</title>
+    <title>Ip Zack | Zubakaya</title>
     <style>
         :root {
             --green: #006400;
@@ -84,7 +84,7 @@
 <body>
     <div class="container">
         <!-- Upload your photo to the repo as "profile.jpg" then replace the URL below -->
-        <img src="https://via.placeholder.com/168" alt="LP Zack" class="profile">
+        <img src="https://via.placeholder.com/168" alt="Ip Zack" class="profile">
         
         <h1>LP Zack</h1>
         <p class="handle">@lpzackofficial</p>
