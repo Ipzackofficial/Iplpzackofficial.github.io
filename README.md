@@ -1,2 +1,94 @@
 # Iplpzackofficial.github.io
 Official website of Ip Zack – Zubakaya genre artist, music releases, lyrics, videos, and updates.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LP Zack Official | Zubakaya</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #006400, #1e3a1e);
+            color: white;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+        }
+        .profile {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            border: 6px solid white;
+            margin: 20px auto;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        h1 {
+            margin: 10px 0 5px;
+            font-size: 2.2em;
+        }
+        .handle {
+            font-size: 1.1em;
+            opacity: 0.9;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.15em;
+            margin-bottom: 35px;
+            opacity: 0.95;
+            line-height: 1.4;
+        }
+        .link-button {
+            display: block;
+            background: rgba(255,255,255,0.15);
+            color: white;
+            text-decoration: none;
+            padding: 16px 20px;
+            margin: 12px auto;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.05em;
+            transition: all 0.3s ease;
+            max-width: 420px;
+        }
+        .link-button:hover {
+            background: white;
+            color: #006400;
+            transform: translateY(-3px);
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 1em;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Replace this placeholder with your real photo later -->
+        <img src="https://via.placeholder.com/160" alt="LP Zack" class="profile">
+        
+        <h1>Ip Zack</h1>
+        <p class="handle">@lpzackofficial</p>
+        <p class="bio">Kenyan artist pioneering the <strong>Zubakaya</strong> genre<br>
+        Blending traditional Kenyan sounds with fresh modern vibes 🇰🇪</p>
+        
+        <!-- Add your real links here -->
+        <a href="http://www.youtube.com/@Zubakaya" class="link-button" target="_blank">▶️ YouTube</a>
+        <a href="https://www.instagram.com/t.b.m.sounds/" class="link-button" target="_blank">📸 Instagram</a>
+        <a href="https://www.facebook.com/share/18tuFiAdjA/" class="link-button" target="_blank">F Facebook / X</a>
+        <a href="https://tiktok.com/@zubakaya" class="link-button" target="_blank">🎤 TikTok</a>
+        <a href="https://wa.me/254719325574" class="link-button" target="_blank">💬 WhatsApp</a>
+        <a href="https://ipzackofficial.github.io/ipzack/" class="link-button" target="_blank">🌐 Full Website</a>
+        
+        <div class="footer">
+            Pioneering Zubakaya • Made in Kenya
+        </div>
+    </div>
+</body>
+</html>
